@@ -1,7 +1,6 @@
-# Python
-Python exercises
-Los ejercicios corresponde a sesiones especificas:
+# Python exercises
+### The exercises correspond to specific sessions:
 
-Sesion_01_Rebound y Sesion_02_Drilling corresponden a la sesion 1
-Luego los ejercicios correspondientes a las sesiones 2,3,4,5, etc....
-sale de forma ordenada
+### Session_01_Rebound and Session_02_Drilling correspond to session 1
+
+##### Then the exercises corresponding to sessions 2,3,4,5, etc... come out in an orderly manner
